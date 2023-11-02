@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @proHarshang</h1>
+<h1 align="center">Hi 👋, I'm Harshang</h1>
 <h3 align="center">I have an excellent skill-set to built websites. I enjoy working on complex websites.</h3>
 
 - 🔭 I’m currently working as **lead programmer at Expansers Technology**
