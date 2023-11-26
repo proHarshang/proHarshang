@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **lead programmer at Expansers Technology**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.harshangdev.repl.co](https://proharshang.github.io/Harshang/)
+- 👨‍💻 All of my projects are available at [https://proharshang.github.io/Harshang](https://proharshang.github.io/Harshang)
 
 - 📫 How to reach me **harshang.developer@gmail.com**
 
